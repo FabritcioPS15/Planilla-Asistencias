@@ -5,3 +5,7 @@ Control de Asistencias: El sistema permite registrar, visualizar y actualizar la
 Generación de Reportes: La plataforma facilita la creación de reportes personalizados con la información relevante de cada empleado, lo cual es útil para la realización de pagos correspondientes.
 
 Con esta herramienta, los administradores tienen un control completo sobre la información del personal, lo que mejora la eficiencia y precisión en los procesos de gestión de pagos y asistencia.
+Si quieres ver el sistema prueba usando este correo:
+sistema.sancristobal@gmail.com 
+123456789
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
